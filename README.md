@@ -2,7 +2,8 @@
 
 # Frontend Mentor - Space tourism website
 
-![space-travel-website-preview](https://github.com/[anubhav1206]/[the-space-travel-website]/preview.jpg?raw=true)
+![space-travel-website-preview](preview.jpg)
+
 
 
 
