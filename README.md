@@ -2,6 +2,8 @@
 
 # Frontend Mentor - Space tourism website
 
+./preview.jpg
+
 
 
 
