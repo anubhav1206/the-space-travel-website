@@ -414,6 +414,12 @@
   }
   
   @media (min-width: 35rem) and (max-width: 44.999rem) {
+    /*I set the padding to be close to resembling the laptop version. I viewed the website at 561 x 658 pixels. Phillip Andrews*/
+    nav #primary-navigation {
+      padding-left: 30px;
+      padding-top: -5px;
+      padding-bottom: -5px;
+    }
     .primary-navigation a > span {
       display: none;
     }
